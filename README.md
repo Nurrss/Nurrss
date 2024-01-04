@@ -8,19 +8,19 @@ I'm passionate about creating robust and efficient backend solutions. My journey
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Views-23M-blue)](https://t.me/s_nursultan_n)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/s_nursultan_n)
 
 ## Languages and Tools:
 
-![Express.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![CSS](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![HTML](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen?style=flat-square&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=python)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
 <!-- Add other badges and icons as needed -->
 
