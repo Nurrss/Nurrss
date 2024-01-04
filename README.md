@@ -9,6 +9,7 @@ I'm passionate about creating robust and efficient backend solutions. My journey
 ## Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/s_nursultan_n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nursultan-serkul-8127b2272/)
 
 ## Languages and Tools:
 
