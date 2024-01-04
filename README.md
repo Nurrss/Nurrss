@@ -8,7 +8,7 @@ I'm passionate about creating robust and efficient backend solutions. My journey
 
 ## Contact
 
-[![Views Badge](https://img.shields.io/badge/Views-23M-blue)](Your YouTube Channel Link)
+[![Telegram](https://img.shields.io/badge/Views-23M-blue)](https://t.me/s_nursultan_n)
 
 ## Languages and Tools:
 
